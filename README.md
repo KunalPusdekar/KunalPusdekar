@@ -3,7 +3,7 @@
 <section id="about-me">
   <p>
     Hi 👋, I’m <strong>Kunal Pusdekar</strong> — a passionate B.Tech CSE (AIML) student at 
-    Shri Ramdeobaba College, Nagpur, maintaining a CGPA of <strong>9.40/10</strong>.
+    Shri Ramdeobaba College, Nagpur, maintaining a CGPA of <strong>9.42/10</strong>.
   </p>
   <p>
     Currently working as a <strong>Frontend Developer Intern at IIT Bombay</strong>, 
