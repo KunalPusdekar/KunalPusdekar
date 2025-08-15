@@ -1,51 +1,37 @@
-# 💫 About Me:
-<!-- About Me (HTML) -->
-<section id="about-me">
-  <p>
-    Hi 👋, I’m <strong>Kunal Pusdekar</strong> — a passionate B.Tech CSE (AIML) student at 
-    Shri Ramdeobaba College, Nagpur, maintaining a CGPA of <strong>9.42/10</strong>.
-  </p>
-  <p>
-    Currently working as a <strong>Frontend Developer Intern at IIT Bombay</strong>, 
-    where I design and develop responsive, interactive UIs for <em>PredictXplore</em>, 
-    integrating REST APIs to visualize real-time Machine Learning outputs.
-  </p>
-  <p>
-    I’m driven by the challenge of creating <strong>modern, user-centric web applications</strong> 
-    using technologies like <strong>React, Node.js, and TailwindCSS</strong>.
-  </p>
-</section>
+<!-- 🌟 Stylish GitHub README for Kunal Pusdekar -->
 
+<h1 align="center">Hi 👋, I'm <span style="color:#ff4b2b;">Kunal Pusdekar</span></h1>
+<h3 align="center">🚀 B.Tech CSE (AIML) Student | MERN Stack Developer</h3>
 
+---
 
-<p align="left">
-  <!-- Instagram (outline, pink/orange gradient) -->
+## 💫 About Me
+🎓 **B.Tech CSE (AIML)** @ *Shri Ramdeobaba College, Nagpur* — CGPA **9.42/10**  
+💻 **Frontend Developer Intern** @ *IIT Bombay*, building interactive UIs for **PredictXplore** with real-time ML data visualization  
+💡 Passionate about **modern, user-centric web applications** with **React, Node.js, and TailwindCSS**  
+🔥 Always exploring **AI/ML, full-stack development, and creative UI/UX**  
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
   <a href="https://www.instagram.com/kunal_pusdekar/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="32px" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-
-  <!-- LinkedIn (outline, blue) -->
-  <a href="https://www.linkedin.com/in//kunal-pusdekar/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="32px" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/kunal-pusdekar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-
-  <!-- Email (outline, red) -->
   <a href="mailto:kunalpusdekar16@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32px" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-
-  <!-- Phone / WhatsApp (outline, green) -->
   <a href="tel:+918668748821">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="32px" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
-</br>
+
 
 <!-- Font Awesome CDN -->
-
+<!--
 
 # 💻 Tech Stack:
 <table>
@@ -170,8 +156,17 @@
       <br>Sentry
     </td>
   </tr>
-</table>
+</table> -->
 
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=docker,react,nextjs,nodejs,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=figma,canva,tensorflow,opencv,pytorch,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=vercel,git,github,vscode,androidstudio,postman,sentry" />
+</p>
+
+---
 
 
 ## 📊 GitHub Analytics
@@ -184,6 +179,7 @@
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KunalPusdekar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=KunalPusdekar&icon=3&color=12" />
+</p>
